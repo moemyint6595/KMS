@@ -1,0 +1,8 @@
+﻿.nav-container{
+    height : 100%;
+    width : 100px;
+    background : var(--nav-bg-color);
+    position : fixed;
+    top : 0;
+    left : 0;
+}

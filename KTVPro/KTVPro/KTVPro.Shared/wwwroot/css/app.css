@@ -1,0 +1,24 @@
+:root {
+    --app-bg-color: #111214;
+    --core-color: #ED6400;
+    --core-second-color: #000000;
+    --text-color: #000000;
+    --core-text-color: #000000;
+    --icon-color: #000000;
+    --nav-bg-color: #FFFFFF;
+}
+
+html, body {
+    padding : 0;
+    margin : 0;
+    box-sizing : border-box;
+    color : var(--text-color);
+}
+
+#main-page{
+    background : var(--app-bg-color);
+}
+
+main {
+    margin-left: 100px;
+}
